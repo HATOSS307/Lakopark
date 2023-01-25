@@ -1,0 +1,11 @@
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\bin\Debug\Lakopark.exe.config
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\bin\Debug\Lakopark.exe
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\bin\Debug\Lakopark.pdb
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.csproj.AssemblyReference.cache
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.csproj.SuggestedBindingRedirects.cache
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.Form1.resources
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.Properties.Resources.resources
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.csproj.GenerateResource.cache
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.csproj.CoreCompileInputs.cache
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.exe
+C:\Users\cisco\Downloads\LakoparkProject-8a541d74a6b0a045c18e4f6ff1619dc445180a20\obj\Debug\Lakopark.pdb
